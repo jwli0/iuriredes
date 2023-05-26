@@ -1,0 +1,84 @@
+*{
+    background-color: palevioletred;
+    font-family: Dangrek;
+
+}
+
+ /*paleta*/
+
+.bg-primary-color{
+    background-color:  #e7228b;
+
+}
+
+#boton{
+    background-color:  rgb(231, 34, 139);
+    border: none;
+}
+
+.bg-secondary-color{
+    background-color:  rgb(248, 199, 225);
+}
+
+.bg-dark-color{
+   background-color: #050505; 
+}
+
+.primary-color{
+    color: #ffff;
+}
+
+.secondary-color{
+    color: rgb(238, 197, 219);
+}
+
+
+ /* criação*/
+
+
+.perfil {
+
+    width: 5% ;
+    right: 5% ;
+    border-radius: 50%;
+    padding: 1%;
+    }
+    
+i{
+    color: white;
+
+}
+
+
+
+
+.carousel-inner{
+   
+    padding: 1%;
+
+    
+    }
+
+    card-header{
+
+        padding: 1%;    
+    }
+
+
+  #os{
+   
+    padding: 1%;
+    
+    
+   }
+
+   .card-group{
+    padding: 1%;
+  
+   }
+
+   #pag{
+    padding: 1%;
+
+   }
+
